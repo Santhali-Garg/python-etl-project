@@ -1,1 +1,7 @@
+customer_id,name,city,age,salary,salary_band
+101,Rahul Sharma,DELHI,32,55000,Medium
+102,Priya Singh,MUMBAI,28,62000,Medium
+103,Amit Kumar,BANGALORE,35,70000,Medium
+104,Neha Gupta,DELHI,29,58000,Medium
+105,Ravi Verma,MUMBAI,41,75000,Medium
 
