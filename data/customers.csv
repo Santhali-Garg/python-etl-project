@@ -1,1 +1,6 @@
-
+customer_id,name,city,age,salary
+101,Rahul Sharma,Delhi,32,55000
+102, Priya Singh ,Mumbai,28,62000
+103,Amit Kumar, Bangalore,35,70000
+104,Neha Gupta,Delhi,29,58000
+105,Ravi Verma, Mumbai,41,75000
